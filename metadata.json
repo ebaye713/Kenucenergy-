@@ -1,0 +1,6 @@
+{
+  "name": "SolaraGuard - Solar & CCTV Engineering",
+  "description": "Turnkey solar energy systems and 4K CCTV surveillance installations for homes, estates, corporations, farms, and streets with zero recurring subscriptions and 100% asset ownership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
